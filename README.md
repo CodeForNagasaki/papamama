@@ -2,6 +2,10 @@
 
 GitHubで公開されている[さっぽろ保育園マップ](https://github.com/codeforsapporo/papamama)を元にCodefor長崎によって開発された保育園マップです。
 
+Preview:
+https://codefornagasaki.github.io/papamama/
+
+
 ### 関連リンク先
 
 * [《Facebookグループ》Codefor長崎](https://www.facebook.com/groups/1709440532692336/)
