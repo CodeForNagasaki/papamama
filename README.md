@@ -1,30 +1,25 @@
-# さっぽろパパママMAPについて
+## Codefor長崎の保育園マップ
 
-札幌市内に点在する保育所（認可、認可外）、幼稚園の位置・定員情報をマッピングした地図を作成しています。
+GitHubで公開されている[さっぽろ保育園マップ](https://github.com/codeforsapporo/papamama)を元にCodefor長崎によって開発された保育園マップです。
 
-## 利用している地図について
+### 関連リンク先
 
-地理院地図で提供している地理院タイルの地図情報を利用しています。
+* [《Facebookグループ》Codefor長崎](https://www.facebook.com/groups/1709440532692336/)
 
-- http://portal.cyberjapan.jp/help/development/ichiran.html
+### お問い合わせ先
 
-## 提供されるデータについて
+* [《Facebookグループ》Codefor長崎](https://www.facebook.com/groups/1709440532692336/)
 
-札幌市で公開している保育所データ、および、国土数値情報ダウンロードサービスから入手できる福祉施設情報を元に独自のCSVデータを作成し利用しています。
 
-- http://www.city.sapporo.jp/kodomo/kosodate/l4_01.html
-- http://nlftp.mlit.go.jp/ksj/index.html
+## さっぽろ保育園マップ
+
+[さっぽろ保育園マップ](http://papamama.codeforsapporo.org/)は、[Code for Sapporo パパママまっぷチーム](http://www.codeforsapporo.org/papamama/)
+が開発したアプリケーションです。
 
 ## ライセンスについて
 
-本アプリ及びソースコードの著作権は Code for Sapporo に帰属します。  
-このソフトウェアは、MITライセンスでのもとで公開されています。  
-MITライセンス条件を満たす限り、自由な複製・配布・修正を無制限に行うことができます。  
-ライセンス条件についてはLICENSE.txtをご覧ください。
+さっぽろ保育園マップアプリ及びソースコードの著作権は [Code for Sapporo](http://www.codeforsapporo.org) に帰属します。  このソフトウェアは、MITライセンスでのもとで公開されています。  
+MITライセンス条件を満たす限り、自由な複製・配布・修正を無制限に行うことができます。ライセンス条件についてはLICENSE.txtをご覧ください。
 
-## パパママMAPをあなたの地域で導入するには
-
-- dataフォルダの情報を自分の地域に合わせて作成します。
-- データの定義については、以下を参考にしてください。
-https://github.com/codeforsapporo/papamama/blob/master/doc/dataSpecification.xls
-- js/index.js の変数 init_center_coords、bing_api_key の値を変更することで、初期表示位置情報を変更できます。
+### Codefor長崎の保育園マップについて
+「Codefor長崎の保育園マップ」は「さっぽろ保育園マップアプリ」のソースコードを元にCodefor長崎によって開発されたものです。
