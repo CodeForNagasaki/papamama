@@ -20,6 +20,9 @@ https://codefornagasaki.github.io/papamama/
 [さっぽろ保育園マップ](http://papamama.codeforsapporo.org/)は、[Code for Sapporo パパママまっぷチーム](http://www.codeforsapporo.org/papamama/)
 が開発したアプリケーションです。
 
+[Github: https://github.com/codeforsapporo/papamama](https://github.com/codeforsapporo/papamama)
+
+
 ## ライセンスについて
 
 さっぽろ保育園マップアプリ及びソースコードの著作権は [Code for Sapporo](http://www.codeforsapporo.org) に帰属します。  このソフトウェアは、MITライセンスでのもとで公開されています。  
